@@ -1,0 +1,25 @@
+#mybg {
+  background-color: red;
+}
+
+.cards {
+  margin: 10px;
+}
+
+#bridge {
+  margin: 20px;
+  padding: 20px;
+}
+#myproj {
+  padding: 20px;
+  margin: 20px 0px 20px 0px;
+}
+
+.border {
+  border-radius: 7px;
+}
+
+.nav-item:hover{
+  opacity:30%;
+  transition: opacity 0.3s;
+}

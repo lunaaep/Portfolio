@@ -1,0 +1,83 @@
+     <!-- Card code credit: Bootstrap -->
+ <div class="container">
+   <div class="row">
+     <div class="col-sm-6">
+       <div class="card mb-3"> 
+         <div class="row">
+           <div class="col-sm-7">
+             <div class="card-body">
+               <strong>School Work</strong>
+               <h1>Lightbot</h1>
+               <p>My very first experience with code! It was a fun way to start learning.</p>
+               <a href="Volskaya_Projects.html">Continue reading...</a>
+             </div>
+           </div>
+           <div class="col-sm-5" style="'text-align:center;'">
+             <img style="'text-align:right;'" class="card-img float-right" src="Images/lightbot.png" alt="Card image" width="120px" height="200px">
+           </div>
+         </div>
+       </div>
+     </div>
+
+     <div class="col-sm-6">
+       <div class="card mb-3"> 
+         <div class="row">
+           <div class="col-sm-7">
+             <div class="card-body">
+               <strong>Projects</strong>
+               <h1>Scratch Project</h1>
+               <p>This was a fun introductory project where I worked  with a partner to create a game on scratch.</p>
+               <a href="Volskaya_Projects.html">Continue reading...</a>
+             </div>
+           </div>
+           <div class="col-sm-5" style="'text-align:center;'">
+             <img style="'text-align:right;'" class="card-img float-right" src="Images/scratch.jpg" alt="Card image" width="120px" height="200px">
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+
+<div class="container">
+   <div class="row">
+     <div class="col-sm-6">
+       <div class="card mb-3"> 
+         <div class="row">
+           <div class="col-sm-7">
+             <div class="card-body">
+               <strong>Projects</strong>
+               <h1>MIT App Inventor</h1>
+               <p>In this project, my partner and I worked together to make a simple photobooth app on an Android device.</p>
+               <a href="Volskaya_Projects.html">Continue reading...</a>
+             </div>
+           </div>
+           <div class="col-sm-5" style="'text-align:center;'">
+             <img style="'text-align:right;'" class="card-img float-right" src="Images/mit.png" alt="Card image" width="140px" height="200px">
+           </div>
+         </div>
+       </div>
+     </div>
+
+     <div class="col-sm-6">
+       <div class="card mb-3"> 
+         <div class="row">
+           <div class="col-sm-7">
+             <div class="card-body">
+               <strong>School Work</strong>
+               <h1>Codecademy</h1>
+               <p>I was introduced to Codecademy in freshman year, which significantly helped me throughout the year and gave me a foundation of coding in HTML and Python.</p>
+               <a href="Volskaya_WorkExperience.html">Continue reading...</a>
+               <br>
+               <br>
+             </div>
+           </div>
+           <div class="col-sm-5" style="'text-align:center;'">
+             <img style="'text-align:right;'" class="card-img float-right" src="Images/codecademy.png" alt="Card image" width="140px" height="200px">
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+ 
